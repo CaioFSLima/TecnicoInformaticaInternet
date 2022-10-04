@@ -5,7 +5,17 @@ HR = LINHA HORIZONTAL
 STRONG = NEGRITO
 EM = ITALICO
 U = SUBLINHADO
-IMG = IMAGEM (SRC = ENDEREÇO DA IMAGEM) (ALT = DESCRIÇÃO DA IMAGEM OU NOME)
-ol = cria lista
+IMG = IMAGEM (SRC = ENDEREÇO DA IMAGEM) (ALT = DESCRIÇÃO DA IMAGEM OU NOME) (height = altura em px) (width = Largura em px) (title = titulo) 
+ol = cria lista ordenada
 li = cria um ponto na lista
 <!----> = comentario
+ul = cria lista não ordenada
+dl = lista de definição
+dd = definição
+dt = título
+a = link
+table = tabela
+td
+tr
+thead
+tbody

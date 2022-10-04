@@ -6,3 +6,6 @@ STRONG = NEGRITO
 EM = ITALICO
 U = SUBLINHADO
 IMG = IMAGEM (SRC = ENDEREÇO DA IMAGEM) (ALT = DESCRIÇÃO DA IMAGEM OU NOME)
+ol = cria lista
+li = cria um ponto na lista
+<!----> = comentario
